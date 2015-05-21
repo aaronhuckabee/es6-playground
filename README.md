@@ -8,11 +8,15 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMASc
 
 Install process:
 (if no npm):
+```
 brew install node
+```
 (if no brew, download from http://brew.sh/)
 
+```
 npm install
 gulp
+```
 (in browser visit http://localhost:8080/)
 
 
